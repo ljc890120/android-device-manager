@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+uiautomator2 
+adb-shell 
+python-dotenv 
